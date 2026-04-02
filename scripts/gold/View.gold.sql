@@ -89,5 +89,7 @@ go
 
 
 select * from gold.fact_sales
+select COUNT(*) from gold.fact_sales
+
 
 
